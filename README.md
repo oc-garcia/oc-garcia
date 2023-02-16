@@ -1,11 +1,3 @@
-### Front-End Developer
-
-<div align='center'>
-  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oc-garcia&layout=compact&langs_count=16&theme=transparent"/>
-  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oc-garcia&hide=prs,issues,contribs&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</div>
-
----
 
 <div align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -18,7 +10,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />     
 </div>
-          
+
+---
+
+<div align='center'>
+  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oc-garcia&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oc-garcia&hide=prs,issues,contribs&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
+<div align='center'> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:octaviogarcia1988@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/octáviogarcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+        
 <!--
 **oc-garcia/oc-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
