@@ -14,8 +14,12 @@
 ---
 
 <div align='center'>
-  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oc-garcia&layout=compact&langs_count=16&theme=transparent"/>
-  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oc-garcia&hide=prs,issues,contribs&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oc-garcia&layout=compact&langs_count=16&theme=dark"/>
+<!--   <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oc-garcia&hide=prs,issues,contribs&&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+</div>
+
+<div align='center'>
+<a height="150em" href="http://www.github.com/oc-garcia"><img src="https://github-readme-streak-stats.herokuapp.com?user=oc-garcia&theme=dark&date_format=j%2Fn%5B%2FY%5D"/></a>
 </div>
 
 ---
@@ -25,6 +29,8 @@
  <a href = "mailto:octaviogarcia1988@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/octáviogarcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
         
 <!--
 **oc-garcia/oc-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
