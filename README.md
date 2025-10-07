@@ -31,17 +31,6 @@
 
 ---
 
-<div align='center'>
-  <img height="200rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oc-garcia&layout=compact&langs_count=16&theme=dark"/>
-<!--   <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oc-garcia&hide=prs,issues,contribs&&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-</div>
-
-<div align='center'>
-<a height="150em" href="http://www.github.com/oc-garcia"><img src="https://github-readme-streak-stats.herokuapp.com?user=oc-garcia&theme=dark&date_format=j%2Fn%5B%2FY%5D"/></a>
-</div>
-
----
-
 <div align='center'> 
  <a href="https://discordapp.com/users/318044291333357568" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:octaviogarcia1988@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
