@@ -7,9 +7,8 @@
   </p>
   <p>Jiu-jitsu brown belt, plenty of time with my dog, and acoustic guitar — a hobby I enjoy more than I play well.</p>
   <p>
-    <a href="https://www.linkedin.com/in/octáviogarcia">LinkedIn</a>
-    ·
-    <a href="mailto:og.dev.sistemas@gmail.com">og.dev.sistemas@gmail.com</a>
+    <a href="https://www.linkedin.com/in/octáviogarcia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:og.dev.sistemas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
 
@@ -26,6 +25,6 @@ TypeScript, JavaScript, Python, React, Next.js, Vue, Nuxt, Node.js, REST APIs, P
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vue,nuxtjs,nodejs,postgres,firebase,docker,azure,githubactions,vercel&perline=8" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,vue,nuxtjs,tailwind,nodejs,express,nestjs,sequelize,prisma,postgres,mongodb,redis,supabase,firebase,ubuntu,vscode,figma,git,githubactions,docker,azure,vercel,prometheus,grafana,postman&perline=10" alt="Tech stack" />
   </a>
 </div>
