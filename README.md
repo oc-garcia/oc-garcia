@@ -16,7 +16,7 @@
 
 ### Selected projects
 
-- **[LexNode](https://www.lexnode.com.br)** — legal-data platform, with a published npm SDK (`@lexnode/legal-data-sdk`) and an OAuth-secured MCP server for AI assistants. Also a [Claude Code plugin](https://github.com/oc-garcia/lexnode-claude-plugin) for cases, publications, and case law.
+- **[LexNode](https://www.lexnode.com.br)** — legal-data platform, with a published npm SDK ([`@lexnode/legal-data-sdk`](https://www.npmjs.com/package/@lexnode/legal-data-sdk)) and an OAuth-secured MCP server for AI assistants. Also a [Claude Code plugin](https://github.com/oc-garcia/lexnode-claude-plugin) for cases, publications, and case law.
 - **[Insurance OS](https://www.insurance-os.com.br)** — insurance platform with an MCP server consumed by ChatGPT, Claude, and Grok.
 
 ### Tech stack
